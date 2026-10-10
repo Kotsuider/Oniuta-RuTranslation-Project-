@@ -13,7 +13,7 @@
 - [ ] Перевод графики
 - [ ] Редактура
 
-[Таблица с переводом](https://docs.google.com/spreadsheets/d/1W_IoG1-Khw1V3mISkmLECusFw5K96owc/edit?usp=sharing&ouid=103224880279791937700&rtpof=true&sd=true)
+[Таблица с переводом](https://docs.google.com/spreadsheets/d/1j2cZcyvXVyZn_b6UdnuIAhd8uw2RFgyN/edit?usp=sharing&ouid=103224880279791937700&rtpof=true&sd=true)
 
 ## Установка
 1. Скачайте
